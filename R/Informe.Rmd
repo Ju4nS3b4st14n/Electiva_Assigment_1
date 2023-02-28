@@ -1,0 +1,18 @@
+---
+title: "Assigment"
+output: pdf_document
+date: "2023-02-28"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Integrantes
+Manuel Guiza,
+Luis Cardozo,
+Sergio Lopez,
+Sebastian Torres
+
+
+
