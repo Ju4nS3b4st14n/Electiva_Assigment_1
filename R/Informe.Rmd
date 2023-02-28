@@ -14,5 +14,10 @@ Luis Cardozo,
 Sergio Lopez,
 Sebastian Torres
 
+## Primer punto
+
+Crear un script que imprima los numeros primos del 1 a 100
+
+
 
 
